@@ -1,0 +1,1493 @@
+CMD.LOAD.F222
+Choice Valuation
+7174 Santa Teresa Blvd. Suite A-2
+
+
+06/06/2017
+Sample Bank
+123 Main Street
+San Francisco, CA 94221
+Jeff Johnstone
+1602 The Alameda
+San Jose, CA 95126
+
+
+Jeff Johnstone
+1602 The Alameda, San Jose, CA 95126
+06/06/2017
+357,667
+Brandon Reich
+
+CMD.LOAD.F212
+
+1602 The Alameda
+San Jose, CA 95126
+Adam Smith
+Sample Bank
+123 Main Street
+San Francisco, CA 94221
+06/06/2017
+Choice Valuation
+7174 Santa Teresa Blvd. Suite A-2
+
+CMD.LOAD.F231
+Choice Valuation
+97-1990
+Case No.
+122502-M007
+URAR Page 1
+1
+URAR Page 2
+2
+URAR Page 3
+3
+URAR Page 4
+4
+URAR Page 5
+5
+URAR Page 6
+6
+FNMA 1004MC
+7
+Sketch
+8
+Location Map
+9
+Flood Map
+10
+Plat Map
+11
+Photo Subject
+12
+Photo Subject Extra
+13
+Photo Comparables 1-2-3
+14
+Appraisal Compliance Addendum
+15
+Market Analysis Charts (3)
+16
+Median Price - Broken Down
+17
+Market Analysis Charts (5)
+18
+Time Adjustment Factor
+19
+Extra Comps 4-5-6
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CMD.LOAD.F340
+
+Choice Valuation
+97-1990
+Case No.
+122502-M007
+1602 The Alameda
+San Jose
+CA
+95126
+Jeff Johnstone
+James Robbins
+Santa Clara
+Lot 25 - Erasure Bechet refer to Act#1010 for more detailed info
+9782
+2002
+$1300
+Erasure Bechet 
+653-04
+32N 57E
+ 
+ 
+X
+N/A
+
+
+
+
+X
+ 
+
+
+X
+
+
+
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+X
+ 
+DOM 25;Subject property was offered for sale.;Original Price $370,000;Original Date 05/17/2017
+ 
+X
+Arms length sale;Was not required by Lender
+350,000
+06/17/2017
+X
+
+
+ 
+X
+$0;;
+ 
+ 
+ 
+ 
+X
+ 
+X
+ 
+ 
+X
+ 
+ 
+X
+ 
+ 
+
+X
+
+300
+400
+
+26
+23
+
+100
+
+
+
+
+
+The subject neighborhood's boundaries are as follows: NORTH by Westwood st., SOUTH by Redwood park, EAST by University Ave., and West by Iaguna lake.
+Mountain Ranch is ten miles E of San Andreas which is the County Governmental Center. It is a semi rural/suburban location in the Sierra Mountains. The housing stock is a mix of both newer & older homes on small to larger acreage parcels. Dwellings vary in size & style.  Market demand is moderate for this area because of its quiet atmosphere & moderate driving times to major Cities.
+During the lifetime of the Erasure Bechet community, the market for this area has been in demand much higher than the supply. Market conditions are presently considered, because this area is a high demand area. Marketing periods generally range from 1-3 months. Properties financed within the subject market area are typically financed with 25% down on principal. The high tech industry continues to boom in silicon valley and thus the need for high class housing within driving distance to industrial areas is in high demand.
+Irregular (cul-de-sac)
+10300 sf
+Irregular(cul-de-sac)
+N;Res;
+Single Family Residential
+
+X
+ 
+ 
+ 
+
+X
+ 
+
+X
+
+
+X
+
+
+X
+
+
+X
+
+
+Asphalt
+X
+ 
+None
+X
+ 
+ 
+X
+"C"
+178-92
+12/23/98
+X
+
+
+
+X
+There is a private airport five miles from location, this is an illegal use of land in the area.
+X
+
+3
+X
+
+
+X
+ 
+ 
+Victorian
+
+0
+X
+
+
+
+0
+0
+ 
+
+
+None Obs.
+
+
+Slab
+Brick/Wood
+Clay tile
+Yes
+two pane
+screens
+
+Hrd Wood/Good
+Sr/Wp-Good
+Wood-Good
+Tile-Good
+Fiberglass-Avg.
+ 
+X
+X
+
+X
+
+
+X
+
+
+
+
+prop.
+X
+
+
+Cent
+X
+1
+X
+Good
+X
+Kidney
+
+
+X
+Wood
+X
+cstone
+ 
+
+ 
+X
+4
+cobblestone
+X
+3
+
+0
+X
+
+
+X
+X
+X
+X
+ 
+X
+
+
+7
+4
+2.00
+6,233
+Cathedral ceilings in living Rm., main hallway, lounge, and master bed. Whirlpool tub in master bath. Wood deck in rear of house. Marble entryway floors. Hardwood floors.
+C3;No updates in the prior 15 years;The subject has been well kept, thus there is no physical depreciation. There were no functional problems observed at the time of inspection by the appraiser.
+
+X
+
+X
+
+
+1
+20
+Choice Valuation
+97-1990
+Case No.
+122502-M007
+185
+100,000
+125,000
+128
+100,000
+125,000
+1602 The Alameda
+San Jose, CA 95126
+350,000
+56.15
+
+
+
+
+
+N;Res;
+Fee Simple
+10300 sf
+N;Res;
+DT3;Victorian
+Q3
+23
+C3
+7
+4
+2.00
+6,233
+0sf
+
+Good
+FWA/Central
+Average
+3ga4dw
+Deck,Patio
+Fireplaces
+2 Fireplace
+
+
+
+
+1231 Villa Ave.
+San Jose, CA 95136
+0.17 miles NE
+325,000
+55.18
+MLS#33431;DOM 25
+Act#95-2394
+ArmLth
+
+Conv;0
+
+s06/17;c05/17
+
+N;Res;
+
+Fee Simple
+
+7899 sf
++60,025
+N;Res;
+
+DT2;Victorian
+
+Q3
+
+25
+
+C3
+
+
+7
+3
+2.00
+
+5,890
++25,725
+0sf
+
+
+
+Good
+
+Cent./Central
+
+Average
+
+2ga4dw
++10,000
+N/A
+
+1 Fireplace
+
+
+
+
+
+X
+
+95,750
+420,750
+1242 Villa Ave.
+San Jose, CA 95136
+0.15 miles NE
+390,000
+56.52
+MLS#8866;DOM 12
+Act#23-9382
+ArmLth
+
+Conv;0
+
+s04/17;c05/17
+
+N;Res;
+
+Fee Simple
+
+6900 sf
++85,000
+N;Res;
+
+DT2;Victorian
+
+Q3
+
+21
+
+C3
+
+
+8
+4
+3.00
+-5,000
+6,900
+-50,025
+0sf
+
+
+
+Good
+
+Cent./Central
+
+Average
+
+2ga4dw
++10,000
+Deck,Patio
+
+2 Fireplace
+
+
+
+
+
+X
+
+39,975
+429,975
+1578 The Alameda
+San Jose, CA 95126
+0.05 miles S
+360,000
+57.76
+MLS#75432;DOM 33
+Act#83-8259
+ArmLth
+
+Conv;0
+
+s05/11;c06/13
+
+N;Res;
+
+Fee Simple
+
+7322 sf
++74,450
+N;Res;
+
+DT3;Victorian
+
+Q3
+
+23
+
+C3
+
+
+7
+3
+3.00
+-5,000
+6,233
+
+0sf
+
+
+
+Good
+
+Cent./Central
+
+Average
+
+3ga4dw
+
+Deck, Patio
+
+1 Fireplace
+
+
+
+
+
+X
+
+69,450
+429,450
+X
+
+
+
+X
+
+
+X
+
+04/02/2010
+$325,000
+MLS# 23424
+
+02/01/2013
+$310,000
+MLS# 122344
+
+01/25/2010
+$250,000
+MLS# 186497
+
+12/15/2013
+$313,000
+MLS# 182397
+
+The MLS data for the subject and comparables and no current agreement or prior sales within one year. 
+Both comparables were located on the same street in the Erasure Bechet community. The community is sealed with a coded gate. The subject's style is the same as it's counterparts in the neighborhood. In the final analysis, all comparable properties were considered.
+357,667
+357,667
+379,326
+0
+The cost approach to the value and market approach to value were completely derived with the greatest possible estimation of the value for the market and value approach. 
+X
+ 
+ 
+
+This appraisal takes into account the current condition of the subject. 
+357,667
+06/06/2017
+2
+20
+Choice Valuation
+97-1990
+Case No.
+122502-M007
+
+
+X
+
+
+3
+06/06/2017
+The residential cost manual published by Huston & Goody Co. was used in determining the cost estimates in the cost approach to value. The age/life method is used to calculate physical depreciation.
+60
+100,000
+6,233
+60.00
+373,980
+Bsmt
+
+
+0
+
+0
+
+
+0
+373,980
+23
+86,015
+3
+8,639
+0
+0
+94,654
+279,326
+0
+379,326
+
+
+0
+
+ 
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+N/A
+3
+20
+CMD.LOAD.F341
+Choice Valuation
+97-1990
+Case No.
+122502-M007
+4
+20
+Choice Valuation
+97-1990
+Case No.
+122502-M007
+5
+20
+Choice Valuation
+97-1990
+Case No.
+122502-M007
+Brandon Reich
+Choice Valuation
+7174 Santa Teresa Blvd. Suite A-2
+
+
+
+06/06/2017
+06/06/2017
+CA-CERT20998
+CA-LIC39015
+
+
+
+11/12/2018
+1602 The Alameda
+San Jose, CA 95126
+357,667
+Adam Smith
+Sample Bank
+123 Main Street
+San Francisco, CA 94221
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+20
+CMD.LOAD.F850
+Choice Valuation
+
+Case No.
+
+1602 The Alameda
+San Jose
+CA
+95126
+Jeff Johnstone
+54
+59
+69
+X
+
+
+9.00
+19.67
+23
+X
+
+
+109
+129
+185
+X
+
+
+12.11
+6.56
+8.04
+
+X
+
+117,000
+114,000
+115,000
+
+X
+
+54
+89
+94
+
+X
+
+117,500
+115,000
+114,900
+
+X
+
+79
+87
+67
+
+X
+
+96%
+96%
+97%
+
+X
+
+
+
+
+
+
+
+
+
+
+
+There were a total of 128 Comparable Settled Sales in the past 12 months.&#10;The Median Sales Price for the prior 7-12 months was $0 and for the current to prior 3 months is $115,000.&#10;The Months Supply for the prior 7-12 months was 0 and 8 for the current to prior 3 month period.&#10;The Median Days on Market for the prior 7-12 months was 0 and 94 for the current to prior 3 month period.&#10;The statistics above were generated from an exported MLS market search.  Details regarding the calculations and process can be found online at&#10;http://bradfordsoftware.com/1004mc/calc.shtml.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brandon Reich
+Choice Valuation
+7174 Santa Teresa Blvd. Suite A-2, 
+CA-CERT20998
+
+
+
+
+
+
+
+
+7
+20
+CMD.LOAD.F201
+Choice Valuation
+97-1990
+Case No.
+122502-M007
+Jeff Johnstone
+1602 The Alameda
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+
+8
+20
+CMD.LOAD.F101
+Choice Valuation
+
+Case No.
+
+Jeff Johnstone
+1602 The Alameda
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+
+9
+20
+CMD.LOAD.F102
+Choice Valuation
+1
+Case No.
+1234-B
+Jeff Johnstone
+1602 The Alameda
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+
+10
+20
+CMD.LOAD.F103
+Choice Valuation
+97-1990
+Case No.
+122502-M007
+Jeff Johnstone
+1602 The Alameda
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+
+11
+20
+CMD.LOAD.F301
+Choice Valuation
+1
+Case No.
+1234-B
+Jeff Johnstone
+1602 The Alameda
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+1602 The Alameda
+San Jose, CA 95126
+
+
+
+
+
+
+
+12
+20
+CMD.LOAD.F302
+Choice Valuation
+1
+Case No.
+1234-B
+Jeff Johnstone
+1602 The Alameda
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+Street Scene
+
+
+Patio
+
+
+Kitchen
+
+
+13
+20
+CMD.LOAD.F304
+Choice Valuation
+COMPARABLES 1-2-3
+1
+Case No.
+1234-B
+Jeff Johnstone
+1602 The Alameda
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+1
+1231 Villa Ave.
+San Jose, CA 95136
+
+2
+1242 Villa Ave.
+San Jose, CA 95136
+
+3
+1578 The Alameda
+San Jose, CA 95126
+
+14
+20
+CMD.LOAD.F220
+06/06/2017
+97-1990
+Case No.
+122502-M007
+
+
+Adam Smith
+Sample Bank
+123 Main Street
+San Francisco, CA 94221
+
+Jeff Johnstone
+1602 The Alameda
+San Jose, CA 95126
+Detailed Appraisal
+550.00
+
+
+
+
+
+
+
+
+
+
+550.00
+Choice Valuation
+7174 Santa Teresa Blvd. Suite A-2
+
+San Jose CA, 95139
+
+
+CMD.LOAD.F4048
+Choice Valuation
+
+Case No.
+
+Jeff Johnstone
+1602 The Alameda
+
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brandon Reich
+06/06/2017
+CA-CERT20998
+CA-LIC39015
+
+11/12/2018
+06/06/2017
+
+
+
+
+
+
+
+
+
+15
+20
+CMD.LOAD.F877
+Choice Valuation
+
+Case No.
+
+Jeff Johnstone
+1602 The Alameda
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+
+TOTAL SALES AND LISTINGS
+There were no sales prior 7-12 months and 69 sales current to 3 months ago. There were 109 listings prior 7-12 months and 185 listings current to 3 months ago.
+
+MEDIAN SALES PRICE
+Prior 7-12 months the median was $0. Current to 3 months ago the median was $115,000.
+
+MONTHS-SUPPLY-OF-INVENTORY (MSI)
+Prior 7-12 months the month's supply was 0. Current to 3 months ago the month's supply was 8.04.
+16
+20
+CMD.LOAD.F895
+Choice Valuation
+
+Case No.
+
+Jeff Johnstone
+1602 The Alameda
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+Days On Market
+Median Price
+351+ Days
+$0
+301-350 Days
+$0
+251-300 Days
+$108,000
+201-250 Days
+$116,500
+151-200 Days
+$119,750
+101-150 Days
+$114,000
+51-100 Days
+$111,750
+0-50 Days
+$114,900
+
+17
+20
+CMD.LOAD.F868
+Choice Valuation
+
+Case No.
+
+Jeff Johnstone
+1602 The Alameda
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+
+TOTAL SALES AND LISTINGS
+There were 0 sales twelve months ago and 22 sales last month.  There were 18 listings twelve months ago and 169 listings last month.
+
+MEDIAN SALES PRICE
+ 
+
+SALES PRICE AS PCT. OF LIST PRICE
+ 
+
+DAYS ON MARKET (SALES)
+ 
+
+MONTHS-SUPPLY-OF-INVENTORY (MSI)
+Twelve months ago the month's supply was 0. One month ago the month's supply was 8.
+18
+20
+CMD.LOAD.F875
+Choice Valuation
+
+Case No.
+
+Jeff Johnstone
+1602 The Alameda
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+Time Period
+Median Sales Price
+Current Month's Median
+Time Adjustment Factor
+12 months ago
+N/A *
+$115,500
+N/A*
+11 months ago
+N/A *
+$115,500
+N/A*
+10 months ago
+N/A *
+$115,500
+N/A*
+9 months ago
+N/A *
+$115,500
+N/A*
+8 months ago
+N/A *
+$115,500
+N/A*
+7 months ago
+N/A *
+$115,500
+N/A*
+6 months ago
+$114,000
+$115,500
+1%
+5 months ago
+$111,750
+$115,500
+3%
+4 months ago
+$113,500
+$115,500
+2%
+3 months ago
+$115,000
+$115,500
+0%
+2 months ago
+$115,000
+$115,500
+0%
+Current month
+$115,500
+$115,500
+0%
+
+19
+20
+CMD.LOAD.F363
+Choice Valuation
+EXTRA COMPARABLES 4-5-6
+
+Case No.
+
+Jeff Johnstone
+1602 The Alameda
+San Jose
+Santa Clara
+CA
+95126
+Sample Bank
+123 Main Street, San Francisco, CA 94221
+1602 The Alameda
+San Jose, CA 95126
+350,000
+56.15
+
+
+
+
+
+N;Res;
+Fee Simple
+10300 sf
+N;Res;
+DT3;Victorian
+Q3
+23
+C3
+7
+4
+2.00
+6,233
+0sf
+
+Good
+FWA/Central
+Average
+3ga4dw
+Deck,Patio
+Fireplaces
+2 Fireplace
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+04/02/2010
+$325,000
+MLS# 23424
+
+4
+
+
+
+
+5
+
+
+
+
+6
+
+
+
+
+
+
+20
+20
